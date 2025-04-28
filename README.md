@@ -37,4 +37,4 @@ Welcome to my GitHub! I’m a **Data Analyst** passionate about turning data int
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to explore, star ⭐️, and fork my projects!* 🚀
+✨ *Thanks for visiting my profile! Feel free to explore, star ⭐️, and fork my projects!* 
